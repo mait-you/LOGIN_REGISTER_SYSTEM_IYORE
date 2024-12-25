@@ -1,4 +1,4 @@
-# LOGIN_REGISTER_SYSTEM_IYORE
+# Register_login_system
 
 ## Description
 LOGIN_REGISTER_SYSTEM_IYORE is a simple login and registration system implemented in C using SDL2 and SDL2_TTF libraries. The project aims to provide a user-friendly graphical interface that allows users to register a new account or log in to an existing account. 
